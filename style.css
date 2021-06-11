@@ -1,0 +1,28 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.faceupred {
+  background-color: red;
+}
+
+.faceupblue {
+  background-color: blue;
+}
+
+.faceupgreen {
+  background-color: green;
+}
+
+.faceuporange {
+  background-color: orange;
+}
+
+.faceuppurple {
+  background-color: purple;
+}
+
